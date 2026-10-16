@@ -1,0 +1,17 @@
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.exe
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.deps.json
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.runtimeconfig.json
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.Form1.resources
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfo.cs
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.sourcelink.json
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\refint\CalculatorApp.dll
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\Users\ORENJI\Downloads\Leon\Kuliah\5th-Semester\Framework-based Programming\CalculatorApp\obj\Debug\net8.0-windows\ref\CalculatorApp.dll

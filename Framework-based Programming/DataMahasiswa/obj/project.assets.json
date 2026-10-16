@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ORENJI\\Downloads\\Leon\\Kuliah\\5th-Semester\\Framework-based Programming\\DataMahasiswa\\DataMahasiswa.csproj",
+      "projectUniqueName": "C:\\Users\\ORENJI\\Downloads\\Leon\\Kuliah\\5th-Semester\\Framework-based Programming\\DataMahasiswa\\DataMahasiswa.csproj",
       "projectName": "DataMahasiswa",
-      "projectPath": "c:\\Users\\ORENJI\\Downloads\\Leon\\Kuliah\\5th-Semester\\Framework-based Programming\\DataMahasiswa\\DataMahasiswa.csproj",
+      "projectPath": "C:\\Users\\ORENJI\\Downloads\\Leon\\Kuliah\\5th-Semester\\Framework-based Programming\\DataMahasiswa\\DataMahasiswa.csproj",
       "packagesPath": "C:\\Users\\ORENJI\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ORENJI\\Downloads\\Leon\\Kuliah\\5th-Semester\\Framework-based Programming\\DataMahasiswa\\obj\\",
+      "outputPath": "C:\\Users\\ORENJI\\Downloads\\Leon\\Kuliah\\5th-Semester\\Framework-based Programming\\DataMahasiswa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ORENJI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ORENJI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
