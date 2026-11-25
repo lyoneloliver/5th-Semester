@@ -1,0 +1,19 @@
+{
+  "name": "pbkk/siakad_ci4",
+  "description": "Sistem Informasi Akademik - Project PBKK berbasis CodeIgniter 4",
+  "type": "project",
+  "require": {
+    "php": "^8.1",
+    "codeigniter4/framework": "^4.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\\\": "app/"
+    }
+  },
+  "scripts": {
+    "post-update-cmd": [
+      "@php spark cache:clear"
+    ]
+  }
+}
